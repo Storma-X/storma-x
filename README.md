@@ -27,9 +27,3 @@ I’m currently dedicating my efforts to:
 - Deep-diving into frameworks like **Laravel** to build scalable web applications.
 - Creating fun, practical projects to reinforce my knowledge and problem-solving skills.
 
----
-
-💬 *"Wer aufhört, besser zu werden, hat aufgehört, gut zu sein."* – Philip Rosenthal
-
-Cheers
-
